@@ -1,1 +1,1 @@
-# mis433
+# Programming Skills for Business Analytics
